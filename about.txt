@@ -1,0 +1,6 @@
+Name: Rahul Pawar
+Goal: Learning Git and GitHub
+Favourite Language: HTML, CSS
+Date: February 26, 2026
+
+This is my second file pushed to GitHub!
